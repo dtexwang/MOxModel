@@ -3,4 +3,6 @@ Data and code for Wang et al. (2017) GCA, "Fractionation of the methane isotopol
 
 A version of this paper was published as part of Chapter 4 of my thesis (doi: [10.1575/1912/9052](http://dx.doi.org/10.1575/1912/9052)).
 
-**System** — MATLAB R2012b (8.0.0.783) 64-bit Windows 7.
+**System**
+* MATLAB R2012b (8.0.0.783) 64-bit Windows 7
+* Python 3.3.5 with Numpy (1.8.1), matplotlib (1.4.0) pandas (0.14.1), scipy (0.14.0), uncertainties (2.4.6) on win32
